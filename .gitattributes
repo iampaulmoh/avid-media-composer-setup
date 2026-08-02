@@ -1,0 +1,7 @@
+# This file is used to override language statistics
+*.yml linguist-detectable=false
+public/index.html linguist-vendored
+*.tsx linguist-detectable
+public/* linguist-vendored
+*.min.css linguist-generated
+*.png binary
