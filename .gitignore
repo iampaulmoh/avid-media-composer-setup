@@ -1,0 +1,7 @@
+npm-debug.log*
+build/
+coverage/
+*.tgz
+node_modules/
+dist/
+yarn-error.log*
